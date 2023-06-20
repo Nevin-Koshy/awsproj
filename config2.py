@@ -1,0 +1,6 @@
+customhost = "projdatabase-1.cjkhxb9jw3sk.us-west-1.rds.amazonaws.com"
+customuser = "aarmanvu"
+custompass = "thinkbig1995"
+customdb = "student"
+custombucket = "addstudent101"
+customregion = "us-east-2"
